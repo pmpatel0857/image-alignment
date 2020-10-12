@@ -1,2 +1,2 @@
 # image-alingment
-Image alingment using python
+Image alingment using python using openCV
